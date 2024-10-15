@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "mèn mén",
+      "price": 30,
+      "quantity": 20,
+      "stock": 5,
+      "description": "lorem",
+      "img": "https://th.bing.com/th/id/R.5225d2e46f3112c8bc7fd6d9de4b859d?rik=q1HGgUn57dTmOA&riu=http%3a%2f%2fvideo.laocaitv.vn%2fuploads%2f00KHOANH%2fVanHoa%2fa2_5.jpg&ehk=4e51Wbf1KAZVl1eyn7EKL8AszAbO1nuC4adCE%2fFggIM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 2,
+      "name": "mèn mén 1",
+      "price": 10,
+      "quantity": 20,
+      "stock": 5,
+      "description": "lorem1",
+      "img": "https://th.bing.com/th/id/R.5225d2e46f3112c8bc7fd6d9de4b859d?rik=q1HGgUn57dTmOA&riu=http%3a%2f%2fvideo.laocaitv.vn%2fuploads%2f00KHOANH%2fVanHoa%2fa2_5.jpg&ehk=4e51Wbf1KAZVl1eyn7EKL8AszAbO1nuC4adCE%2fFggIM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 3,
+      "name": "mèn mén 2",
+      "price": 20,
+      "quantity": 20,
+      "stock": 5,
+      "description": "lorem2",
+      "img": "https://th.bing.com/th/id/R.5225d2e46f3112c8bc7fd6d9de4b859d?rik=q1HGgUn57dTmOA&riu=http%3a%2f%2fvideo.laocaitv.vn%2fuploads%2f00KHOANH%2fVanHoa%2fa2_5.jpg&ehk=4e51Wbf1KAZVl1eyn7EKL8AszAbO1nuC4adCE%2fFggIM%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ],
+  "cart":[
+    {
+        "name":"mèn mén 1",
+        "price":10,
+        "quantity":20,
+        "img":"https://th.bing.com/th/id/R.5225d2e46f3112c8bc7fd6d9de4b859d?rik=q1HGgUn57dTmOA&riu=http%3a%2f%2fvideo.laocaitv.vn%2fuploads%2f00KHOANH%2fVanHoa%2fa2_5.jpg&ehk=4e51Wbf1KAZVl1eyn7EKL8AszAbO1nuC4adCE%2fFggIM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name":"mèn mén 2",
+        "price":20,
+        "quantity":10,
+        "img":"https://th.bing.com/th/id/R.5225d2e46f3112c8bc7fd6d9de4b859d?rik=q1HGgUn57dTmOA&riu=http%3a%2f%2fvideo.laocaitv.vn%2fuploads%2f00KHOANH%2fVanHoa%2fa2_5.jpg&ehk=4e51Wbf1KAZVl1eyn7EKL8AszAbO1nuC4adCE%2fFggIM%3d&risl=&pid=ImgRaw&r=0"
+    }
+  ]
+}
