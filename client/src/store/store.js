@@ -1,7 +1,7 @@
-
+import { createStore } from "vuex";
 import cart from "./module/cart";
 import product from "./module/product";
-const store = ({
+const store = createStore({
     module:{
         cart,
         product,
